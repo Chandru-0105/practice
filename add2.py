@@ -1,3 +1,3 @@
-a=5
-b=8
-print(a*b)
+a=22
+b=6
+print(a-b)
